@@ -1,0 +1,81 @@
+div.container_create{
+    width: 60%;
+    margin:auto;
+    margin-top: 5rem;
+}
+
+img.logo_deliveboo{
+    width: 99px;
+    height: 99px;
+}
+
+nav.navbar{
+    height: 120px;
+    margin-bottom: 12rem;
+    background-color:  #24B0C1;
+    color: #FDCF48;
+    
+}
+
+div.container_fluid{
+    height: 100%;
+}
+
+div.radio{
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color:  #24B0C1;
+}
+
+
+
+.btn{
+    border-radius: 2rem;
+    padding-bottom: 10px;
+}
+
+.my_btn-b{
+    background-color: #24B0C1;
+    color: white;
+}
+
+.my_btn-b:hover{
+    color:  #24B0C1;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid #1695A6;
+}
+
+.my_btn-g{
+    background-color: #FDCF48;
+}
+
+.my_btn-g:hover{
+    color: #fdaf48;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid #fdaf48;
+}
+
+.btn-danger:hover{
+    color: red;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid red;
+
+}
+
+
+div.container-fluid{
+    background-color:  #24B0C1;
+    color: #FDCF48;
+}
+
